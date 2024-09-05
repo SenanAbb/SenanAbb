@@ -4,7 +4,7 @@ Web developer with expertise in React and Node, mastering both relational and no
 
 🧑🏽‍🏭I'm currently working on: Transfers application
 
-📖I'm currently learning: Solidity + Web3
+📖I'm currently learning: <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"> Solidity + <img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">Web3
 
 📙I want lo learn: <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform and <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> Firebase
 
