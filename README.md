@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Welcome to my Github!
+
+Web developer with expertise in React and Node, mastering both relational and non-relational databases. Passionate about crafting unique digital experiences that stand out 🚀
+
+🧑🏽‍🏭I'm currently working on: Transfers application
+
+📖I'm currently learning: Solidity + Web3
+
+📙I want lo learn: <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> Google Cloud Platform
+
