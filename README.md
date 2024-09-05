@@ -1,6 +1,6 @@
 # 👋 Welcome to my Github!
 
-I'm a Full-Stack Web developer with expertise in React and Node, mastering both relational and non-relational databases. Passionate about crafting unique digital experiences that stand out 🚀
+I'm a Full-Stack Web developer from Malaga, Spain with expertise in React and Node, mastering both relational and non-relational databases. Passionate about crafting unique digital experiences that stand out 🚀
 
 🧑🏽‍🏭I'm currently working on: Transfers application
 
