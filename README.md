@@ -32,5 +32,8 @@ Web developer with expertise in React and Node, mastering both relational and no
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 
 ## 🌐 Let's connect
-[instagram]: https://www.instagram.com/lretroo/
-[linkedin]: (https://www.linkedin.com/in/sanan-abbasov-520a94204/)
+<p align="center">
+<a href="https://www.linkedin.com/in/sanan-abbasov-520a94204/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.instagram.com/lretroo/" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:senan996@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
