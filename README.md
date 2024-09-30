@@ -8,6 +8,7 @@ I'm a Full-Stack Web developer from 📍Malaga, Spain with expertise in React an
 
 📙I want lo learn: <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform and <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> Firebase
 
+📋My portafolio: https://www.sananabbasov.dev/
 ---
 
 ## 🔧 Tech & Tools
