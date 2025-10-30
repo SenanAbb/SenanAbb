@@ -4,7 +4,7 @@ I'm a Full-Stack Web developer from 📍Malaga, Spain with expertise in React an
 
 🧑🏽‍🏭I'm currently working on: Transfers application
 
-📖I'm currently learning: <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"> + <img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
+📖I'm currently learning: <img src="https://i.imgur.com/X0wgeXR.png"> + <img src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png">
 
 📙I want lo learn: <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform and <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> Firebase
 
@@ -43,7 +43,7 @@ I'm a Full-Stack Web developer from 📍Malaga, Spain with expertise in React an
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenanAbb">
 
 ## 🌐 Let's connect
-<a href="https://www.linkedin.com/in/sanan-abbasov-520a94204/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sanan-abbasov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/lretroo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:senan996@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
