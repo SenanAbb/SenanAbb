@@ -4,7 +4,7 @@ I'm a Full-Stack Web developer from 📍Malaga, Spain with expertise in React an
 
 🧑🏽‍🏭I'm currently working on: Transfers application
 
-📖I'm currently learning: <img src="https://i.imgur.com/X0wgeXR.png"> + <img src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png">
+📖I'm currently learning: <img src="https://i.imgur.com/X0wgeXR.png" width="200"> + <img src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png" width="200">
 
 📙I want lo learn: <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform and <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> Firebase
 
